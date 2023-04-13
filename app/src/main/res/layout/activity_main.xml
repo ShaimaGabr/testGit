@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -21,10 +21,10 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:minLines="2"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="5dp"
         android:layout_marginEnd="28dp"
         android:text="لقد ارسلنا رساله نصيه قصيره تحتوي علي رمز التفعيل الي هاتفك 01046747643"
 
@@ -67,7 +67,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="ارسال الكود مره اخري 00:20"
-        android:textSize="18dp"
+        android:textSize="16dp"
         android:layout_marginTop="80dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
