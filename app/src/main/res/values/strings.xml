@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My ApplicationGit</string>
+    <array name="details">
+        <item>Name</item>
+        <item>Address</item>
+        <item>Email</item>
+
+    </array>
 </resources>
